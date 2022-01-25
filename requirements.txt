@@ -1,0 +1,6 @@
+pyTelegramBotAPI==3.8.1
+loguru==0.5.3
+python-decouple==3.4
+peewee==3.14.4
+requests==2.26.0
+mtranslate==1.8
