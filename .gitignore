@@ -1,0 +1,5 @@
+/src/bot.log
+/src/.env
+/src/venv/
+/src/.idea
+/src/database.db

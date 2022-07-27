@@ -195,4 +195,5 @@ def on_event(message):
 
 
 if __name__ == '__main__':
+    logger.info('Bot started working')
     bot.polling()

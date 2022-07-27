@@ -16,7 +16,14 @@
 ## Запуск бота
 Бот запускается из корневой папки проекта:
 ```commandline
+cd src
 python3 main.py
+```
+## Запуск бота через Docker
+Для запуска бота через Docker надо собрать контейнер и запустить его:
+```commandline
+docker build -t hotels .
+docker run hotels
 ```
 
 ## Использование бота
